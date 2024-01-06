@@ -1,2 +1,2 @@
-# PaLo-Music-Player-APKs
-PaLo Music Player (Fork of Metro by Muntashir Akon)
+# PaLo-Music-APKs
+PaLo Music (Fork of Metro by Muntashir Akon)
